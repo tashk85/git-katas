@@ -32,14 +32,6 @@ To get an overview of the exercises in here look in [Overview.md](Overview.md).
 
 Feel free to use these exercises, that's why they're public!
 
-## Contributing
-
-If you miss exercises or find errors in any of them, feel free to improve them and make a pull request.
-
-You can also make an issue so we notice an opportunity to improve!
-
-Thank you!
-
 ## Cheatsheet
 
 A collection of useful commands to use throughout the exercises:
